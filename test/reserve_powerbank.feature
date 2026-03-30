@@ -1,4 +1,3 @@
-# Copied from TPC#2 (Daria Mahdych, up202310175)
 # User Story 1 - Reserve a PowerBank before arriving
 
 Feature: Reserve a PowerBank before arriving
