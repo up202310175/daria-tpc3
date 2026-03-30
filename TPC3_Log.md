@@ -188,6 +188,7 @@ During the development process, I used AI assistance to:
 
 
 ## 09. GitHub commit link
+https://github.com/up202310175/daria-tpc3
 https://github.com/up202310175/daria-tpc3/commit/ad74c74989c4d78b405291fc2ae2756dc35213b5
 
 
